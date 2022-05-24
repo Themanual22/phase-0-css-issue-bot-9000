@@ -1,10 +1,10 @@
 body {
-  color:pink;
+  background-color: antiquewhite;
 }
 
 h1 {
-  color: blue;
-  font-size:3em; 
+  color:blue;
+  font-size:12px;
 }
 
 h2 {
